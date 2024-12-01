@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+
+
+  *{
+    background-color: black;
+    color: white;
+  }
